@@ -8,7 +8,7 @@
 
 ## Summary
 
-This is my version of the game called Frogger - from Udacity Front-End Web developer Nanodegree Program. Hope you will like it :)
+This is my version of the game called Frogger - from Udacity Front-End Web developer Nanodegree Program. Hope you will like it 🥰
 
 ## Instructions
 
