@@ -1,9 +1,14 @@
-# Classic Arcade Game Clone Project
+# Frogger Game (Object-oriented Javascript from Udacity)
 
 ## Table of Contents
 
+- [Summary](#summary)
 - [Instructions](#instructions)
 - [Contributing](#contributing)
+
+## Summary
+
+This is my version of the game called Frogger - from Udacity Front-End Web developer Nanodegree Program. Hope you will like it :)
 
 ## Instructions
 
